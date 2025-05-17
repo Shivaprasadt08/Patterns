@@ -5,7 +5,7 @@ This project demonstrates how to print various * patterns using Java. It is desi
 
 1. **Clone the repository**:
   bash
-git clone https://github.com/your-username/PatternPrinting.git
+git clone https://github.com/Shivaprasadt08/Patterns.git
 cd PatternPrinting
 java src.Pyramid
 You can modify the number of rows inside each .java file to change the output.
